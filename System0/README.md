@@ -1,4 +1,4 @@
-Thi folder has all the codes to be on the System0/5 at the GCS
+This folder has all the codes to be on the System0/5 at the GCS
 -allImagesMAIN : has all the images coming down from the ODROID
 		qq to save
 		qww to save, view previous, save previous in alphaNumeric
